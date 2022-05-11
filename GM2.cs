@@ -22,7 +22,7 @@ public class Gamemanager2 : MonoBehaviour {
         while(true)
         {
             Creatitem2();
-            yield return new WaitForSeconds(5);
+            yield return new WaitForSeconds(8);
         }
     }
 
